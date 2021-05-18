@@ -11,7 +11,7 @@
     <name>Vertexium: XStream Serializer</name>
 
     <properties>
-        <xstream.version>1.4.8</xstream.version>
+        <xstream.version>1.4.17</xstream.version>
     </properties>
 
     <dependencies>
